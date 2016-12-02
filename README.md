@@ -1,2 +1,3 @@
 # apps
-This repo consists of source code for different apps being developed across multiple OS
+This apps repo contains source code related to different apps that are developed as part of collaboration by multiple folks around the globe.
+
